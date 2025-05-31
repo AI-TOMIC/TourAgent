@@ -518,19 +518,19 @@ $RECYCLE.BIN/
 
 
 # shape - Geo
-.cpg
-.dbf
-.prj
-.qmd
-.shp
-.shx
+*.cpg
+*.dbf
+*.prj
+*.qmd
+*.shp
+*.shx
 
 # dataset
-.csv
-.zip
-.xlsx
-.xls
-.txt
+*.csv
+*.zip
+*.xlsx
+*.xls
+*.txt
 
 # nt file
-.nt
+*.nt
