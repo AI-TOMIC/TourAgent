@@ -515,3 +515,22 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,audio,video,images,web,django,python,jupyternotebooks,git,nextjs,windows,macos
+
+
+# shape - Geo
+.cpg
+.dbf
+.prj
+.qmd
+.shp
+.shx
+
+# dataset
+.csv
+.zip
+.xlsx
+.xls
+.txt
+
+# nt file
+.nt
