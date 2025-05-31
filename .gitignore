@@ -530,7 +530,6 @@ $RECYCLE.BIN/
 *.zip
 *.xlsx
 *.xls
-*.txt
 
 # nt file
 *.nt
